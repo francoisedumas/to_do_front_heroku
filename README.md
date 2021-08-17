@@ -439,5 +439,5 @@ heroku login
 heroku create
 heroku buildpacks:add heroku/nodejs
 heroku buildpacks:add https://github.com/heroku/heroku-buildpack-static
-git push heroku main
+git push heroku master
 ```
